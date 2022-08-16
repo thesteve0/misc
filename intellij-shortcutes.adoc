@@ -1,0 +1,58 @@
+= Favorite Short Cuts for Intellij gathered from the community
+
+I did not make this list but asked in https://twitter.com/TheSteve0/status/1557486030336405504?s=20&t=-cSHZSUEE6QcrYQWMWxFuw[Twitter] and people were nice enough to respond.
+All I did was gather them here.
+
+.Experts
+[cols="1,1, 1"]
+|===
+|Windows or Linux Shortcut | Mac Shortcut | Action
+
+| Highlighted block or line of code: CTRL + SHIFT + ↑/↓ | OPTION + SHIFT + ↑/↓ | Move all the highlighted text up or down a row
+| CTRL + y | CMD + BACKSPACE |  Deletes the line the cursor is on
+| CTRL + SHIFT + a | COMMAND + SHIFT + a | Brings up search bar for everything but focused on Actions
+| Double tap SHIFT | Double tap SHIFT | Same as above but focused on searching everywhere
+| CTRL + n | CMD + o | Search a class name
+| CTRL + SHIFT + n | CMD + SHIFT + o | Search a file name
+| CTRL + SHIFT + ALT + t | CTRL + T | Pop up possible refactorings
+| CTRL + ALT + n | CMD + ALT + n | Inline a variable
+| CTRL + SHIFT + v | CMD + ALT + v | Extract a variable
+| CTRL + SHIFT + m | CMD + ALT + m | Extract a method
+| CTRL + ALT + c | CMD + ALT + c | Extract a constant
+| SHIFT + F6 | SHIFT + F6 | Rename (anything)
+| CTRL + F12  | CMD + F12 | Show current file structure
+| CTRL + t | CMD + t | Update from VCS in use
+| CTRL + SHIFT + e | CMD + SHIFT + e | Display most recent places of the cursor
+| CTRL + e | CMD + e | Recent files or tool Windows
+| ALT + 0 | CMD + 0 | Open Git Window
+| CTRL + SHIFT + v | CMD + SHIFT + v | Paste from clipboard history
+| CTRL + b | CMD + b | Go to declaration
+| ALT + 1 | CMD + 1 | Opens the Project window and makes it the focus
+| CTRL + p | CMD + p | Parameter info
+| CTRL + SHIFT + ENTER | CTRL + SHIFT + ENTER | Complete the statement
+| CTRL + ` | CMD + ` | Change IDE schemes
+| CTRL + F4 | CTRL + w | close the current editor tab
+| F2 or SHIFT + F2 | F2 or SHIFT + F2 | Next or previous highlighted error
+|===
+
+.Mine (not including the experts)
+[cols="1,1, 1"]
+|===
+|Windows or Linux Shortcut | Mac Shortcut | Action
+
+|CTRL + SHIFT + SPACE | CTRL + SHIFT + SPACE | Smart code completion
+|CTRL + k | CMD + K | Commit projects to VCS (usually allows push )
+| CTRL + / | CMD + / | Comment or uncomment with line comment
+| CTRL + SHIFT + / | CMD + ALT + / | Comment or uncomment with block comment
+| CTRL + TAB | CTRL + TAB | Move quickly between open tabs along with tool windows
+| CTRL + w or CTRL + SHIFT + w | Option + ↑  or  Option + ↓| expand or contract your selection
+| SHIFT + F10 | CTRL + r | Run
+| SHIFT + F9 | CTRL + d | Debug
+| CTRL + F8 | CMD + F8 | Toggle breakpoints
+| ALT + INS | CMD + n | Generate code
+| CTRL + j or CTRL + ALT + j | CMD + j or CMD + ALT + j | Insert or Surround with live template
+|===
+
+
+
+
